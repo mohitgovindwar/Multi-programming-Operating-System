@@ -1,0 +1,30 @@
+HELLO World
+
+
+ERROR  : Time Limit Exceeded
+STATUS : Program( job id =2 )  Terminated Abnormally.........................
+
+HELLO
+
+
+ERROR  : Time Limit Exceeded
+STATUS : Program( job id =4 )  Terminated Abnormally.........................
+
+ABCD
+XYCD
+ERROR  : Time Limit Exceeded
+STATUS : Program( job id =5 )  Terminated Abnormally.........................
+
+VIT
+VIIT
+ERROR  : Time Limit Exceeded
+STATUS : Program( job id =6 )  Terminated Abnormally.........................
+
+VIIT
+VITT
+ERROR  : Time Limit Exceeded
+STATUS : Program( job id =7 )  Terminated Abnormally.........................
+
+ERROR  : Operation Error
+STATUS : Program( job id =8 )  Terminated Abnormally.........................
+
